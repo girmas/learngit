@@ -1,0 +1,28 @@
+
+.form-me {
+    max-width: 800px;
+    margin: 130px auto;
+    position: relative;
+    box-shadow: 0 10px 30px 0px rgba(0,0,0,0.1);
+    padding: 30px;
+}
+
+.form-me .title {
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    line-height: 48px;
+    font-size: 3em;
+    padding-bottom: 20px;
+    color: #5543ca;
+}
+
+.label {
+    text-transform: uppercase;
+}
+
+.submit-btn {
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+}
